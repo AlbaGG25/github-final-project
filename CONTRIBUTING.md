@@ -13,7 +13,6 @@ Click on "New Issue".
 
 Describe the bug or feature request clearly.
 
-#Submitting Pull Requests
 
 #Code Style
 
